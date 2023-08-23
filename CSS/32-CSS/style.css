@@ -1,0 +1,39 @@
+
+body {
+    height: 69px;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+#cabeçalho img {
+    font-size: 10px;
+    height: 50px;
+    margin-right: 945px;
+}
+
+.logo {
+    display: flex;
+    text-decoration: underline;
+    margin: 10px;
+}
+ 
+.itens {
+    margin-top: 10px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: end;
+}
+
+.foto1 img {
+    height: 700px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
